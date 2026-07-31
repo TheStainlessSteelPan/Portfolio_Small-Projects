@@ -1,4 +1,5 @@
-# Generates a master tally of votes using the random module. The Pandas Module help in organizing the master_tally dictionary into a table for data visualization and such.
+""" Generates a master tally of votes using the random module. The Pandas Module help in organizing the master_tally dictionary
+into a table for data visualization and such. """
 import random as rand
 import pandas as pd
 
